@@ -38,3 +38,6 @@
 8 - Finalizado todos os passos anteriores, a seguinte tela é apresentada. É realizado um direcionamento para a página inicial do *[SAP Community](https://community.sap.com/)*, exibindo o *logon* com as credenciais geradas durante o processo de criação do *SAP Universal ID*. Com este último passo alcançado, concluímos aqui todo os passos e realização dos procedimentos necessários para geração do *SAP Universal ID*.
 
 ![MDK](img/img-10.png)
+
+- [Avance para: Passo 2 - Utilizando o SAP Universal ID, para consumir um serviço SAP OData](step-02/README.md)
+- [Retorne para: Página inicial](../README.md)
