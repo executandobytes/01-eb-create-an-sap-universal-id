@@ -1,0 +1,1 @@
+## Neste passo, iremos Utilizar o *SAP Universal ID*, para consumir um serviço SAP OData no *[SAP Business Accelerator Hub](https://api.sap.com/)* via *[POSTMAN](https://www.postman.com/downloads/)*

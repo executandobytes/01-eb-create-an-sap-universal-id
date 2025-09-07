@@ -15,4 +15,4 @@ Será solicitado para validade de cadastro, possunir uma conta de e-mail e telef
 ## Passos
 
 - [Passo 1 - Gerando um SAP Universal ID](step-01/README.md)
-- [Passo 2 - Utilizando o SAP Universal ID, para consumir um serviço SAP OData](step-02/README.md)
+- [Passo 2 - Passo 2 - Utilizando o SAP Universal ID, para consumir um serviço SAP OData (Parte 1)](step-02/README.md)
