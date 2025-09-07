@@ -22,4 +22,5 @@
 
 ![MDK](img/img-05.png)
 
+- [Avance para: Passo 3 - Utilizando o SAP Universal ID, para consumir um serviço SAP OData (Parte 2)](../step-03/README.md)
 - [Retorne para: Página inicial](../README.md)
