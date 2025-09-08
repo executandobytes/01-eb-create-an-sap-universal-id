@@ -1,6 +1,6 @@
 ## Neste passo, iremos acessar a página inicial para a geração da conta *SAP Universal ID*
 
-1 - Acesse [SAP Community](https://community.sap.com/).
+1 - Acesse [SAP Community](community.sap.com/).
 
 2 - Na tela inicial apresentada, click no ícone destacado na imagem. 
 
